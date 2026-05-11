@@ -9,7 +9,6 @@
 Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS |JAVASCRIPT | Exploratory Data Analysis (EDA) | Feature Engineering
 
 ## 📚 Currently Learning
-- Power BI
 - Machine Learning
 - Data Science
 
