@@ -3,7 +3,7 @@
 🎓 BCA Graduate (2022) from Birla Institute of Technology  
 
 📊 Aspiring Data Analyst / Data Scientist  
-💡 Passionate about turning data into meaningful insights and visual stories  
+💡 Passionate about transforming data into meaningful insights and impactful  visual stories  
 
 ## 📊 Tools & Technologies
 Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS |JAVASCRIPT | Exploratory Data Analysis (EDA) | Feature Engineering
