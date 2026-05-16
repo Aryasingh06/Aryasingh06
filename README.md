@@ -34,3 +34,5 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS
 - 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Aryasingh06
+- Kaggle: https://www.kaggle.com/aryaksingh
+- Medium:https://medium.com/@singharya0621
