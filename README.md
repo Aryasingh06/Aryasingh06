@@ -1,8 +1,7 @@
 # Hi, I'm Arya Singh 
-🎓 MCA (2024) from Birla Institute of Technology  
-🎓 BCA Graduate (2022) from Birla Institute of Technology  
-
-📊 Aspiring Data Analyst / Data Scientist  
+📊 Data analyst | Aspiring Data Scientist
+🎓 MCA Graduate  from Birla Institute of Technology  
+🎓 BCA from Birla Institute of Technology  
 💡 Passionate about transforming data into meaningful insights and impactful  visual stories  
 
 ## 📊 Tools & Technologies
@@ -13,12 +12,11 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS
 - Data Science
 
 ## 📌 Featured Projects
+- Global data science salary analysis
 - Customer Churn Analysis
 - Festival Sales Analysis
 - IPL Storytelling Analysis
 - Supply Chain Analysis
-- E-Commerce Sales Dashboard
-- Myntra clone
 
 ## 🌱 Areas of Interest
 - Data Analytics
@@ -35,4 +33,5 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS
 ## 📫 Connect With Me
 - GitHub: https://github.com/Aryasingh06
 - Kaggle: https://www.kaggle.com/aryaksingh
-- Medium:https://medium.com/@singharya0621
+- Medium: https://medium.com/@singharya0621
+- Certificates and internship : https://drive.google.com/drive/folders/1ro4RTrtxnSTRdcIlia3fzCDRPXGina1f
