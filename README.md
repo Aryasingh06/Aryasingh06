@@ -1,8 +1,10 @@
 # Hi, I'm Arya Singh 
 📊 Data analyst | Aspiring Data Scientist
-🎓 MCA Graduate  from Birla Institute of Technology  
+🎓 MCA Graduate from Birla Institute of Technology  
 🎓 BCA from Birla Institute of Technology  
-💡 Passionate about transforming data into meaningful insights and impactful  visual stories  
+💡 Passionate about transforming data into meaningful insights and impactful visual stories
+ - GOOGLE DATA ANALYTICS | DELOITTE FORAGE DA | GUVI/INFOSIS PYTHON CERTIFIED | ANTHROPIC COURSES
+ - # open to work - Remote / PAN INDIA
 
 ## 📊 Tools & Technologies
 Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS |JAVASCRIPT | Exploratory Data Analysis (EDA) | Feature Engineering
@@ -10,7 +12,7 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS
 ## 📚 Currently Learning
 - Machine Learning
 - Data Science
-
+  
 ## 📌 Featured Projects
 - Global data science salary analysis
 - Customer Churn Analysis
@@ -35,3 +37,7 @@ Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS
 - Kaggle: https://www.kaggle.com/aryaksingh
 - Medium: https://medium.com/@singharya0621
 - Certificates and internship : https://drive.google.com/drive/folders/1ro4RTrtxnSTRdcIlia3fzCDRPXGina1f
+
+  ![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryasingh06&show_icons=true&theme=default)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryasingh06&layout=compact)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Aryasingh06&theme=default)
