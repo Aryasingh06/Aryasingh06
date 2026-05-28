@@ -4,7 +4,7 @@
 🎓 BCA from Birla Institute of Technology  
 💡 Passionate about transforming data into meaningful insights and impactful visual stories
  - GOOGLE DATA ANALYTICS | DELOITTE FORAGE DA | GUVI/INFOSIS PYTHON CERTIFIED | ANTHROPIC COURSES
- - # open to work - Remote / PAN INDIA
+ -  open to work - Remote / PAN INDIA
 
 ## 📊 Tools & Technologies
 Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | HTML | Git & GitHub | CSS |JAVASCRIPT | Exploratory Data Analysis (EDA) | Feature Engineering
