@@ -7,15 +7,14 @@
  -  open to work - Remote / PAN INDIA
 
 ## 📊 Tech Stack 
- Languages : Python | SQL | MYSQL | HTML | CSS | JAVASCRIPT
- ML  & AI  :   Scikit-learn | Linear Regression | Logistic Regression | Agentic AI | AI | Prompt Engineering
+ ## Languages : Python | SQL | MYSQL | HTML | CSS | JAVASCRIPT
+ ## ML  & AI  :   Scikit-learn | Linear Regression | Logistic Regression | Agentic AI | AI | Prompt Engineering
 
 ## Libraries: Pandas | NumPy | Matplotlib | Seaborn | Plotly
 
 ## Tools: Excel |  Git | GitHub | Jupyter Notebook | VS Code | Antigravity IDE
 
-## Concepts: EDA | Feature Engineering | Statistics | Hypothesis Testing | Data Storytelling | 
-             | Data Preprocessing 
+## Concepts: EDA | Feature Engineering | Statistics | Hypothesis Testing | Data Storytelling  | Data Preprocessing 
 
 ## Published Articles : 
 **Towards AI** — Prompt Engineering: The CRAFT Formula
